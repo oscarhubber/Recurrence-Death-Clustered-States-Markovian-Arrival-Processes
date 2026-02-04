@@ -1,7 +1,1 @@
-In the "VERSIONES_DE_PROGRAMAS.txt" file, you may find some information about the files used throughout the whole project.
-
-In the "PROGRAMAS_CSMAPS_V10.ipynb" file, you may find the code used to work on the statistical experiments regarding RD CS-MAP parameter sets.
-
-In the "PRUEBAS_FINALES_V10.ipynb" file, you may find the code used to develop the results about the statistical inference of RD CS-MAPs.
-
-In the "Datasets" folder, you may find all of the datasets used for this project.
+The postmortem branch was created after the defense of this Master's Thesis. Its purpose is to neatly present to future viewers the code that I developed for the project. Bear in mind, the main objective of this project was to obtain new results and insights from the novel RD CS-MAP mathematical model. The evaluation was based exclusively on the contents and presentation of the Thesis report and the Thesis defense, NOT on the codebase (I uploaded it anyway upon request of my advisor). As a result, the original codebase was much messier than the one present here.
